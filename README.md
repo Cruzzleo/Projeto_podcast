@@ -34,8 +34,8 @@
 -------
 ## 📄 Prompts utilizados
 
-1. [ChatGPT](Textos/prompt_1.md)
-2. [ChatGPT](Textos/prompt_2.md)
+1. [ChatGPT](Textos/Prompt_1.md)
+2. [ChatGPT](Textos/Prompt_2.md)
 3. [Designe Copilot](Textos/Prompt_3.md)
 -------
 

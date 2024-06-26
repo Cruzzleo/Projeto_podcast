@@ -3,7 +3,6 @@
     src="./Imagens/Logo.png"
     width="1000"
 />
-</p>
 
 # 🤖Projeto Podcast Gerado por I.A.s
 

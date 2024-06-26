@@ -3,6 +3,10 @@
     src="./Imagens/Logo.png"
     width="1000"
 />
+    <audio controls>
+  <source src="https://github.com/Cruzzleo/Projeto_podcast/blob/main/Audio/Podcast.mp3" type="audio/mpeg">
+  Seu navegador não suporta o elemento de áudio.
+</audio>
 
 # 🤖Projeto Podcast Gerado por I.A.s
 
